@@ -1,4 +1,4 @@
-#  Breast Cancer Prediction using Neural Networks
+#  Breast Cancer Prediction using Neural Network
 
 This project predicts whether a breast tumor is **malignant** (cancerous) or **benign** (non-cancerous) using a **Neural Network** model.  
 The implementation is done in **Python** using **TensorFlow/Keras**, along with standard ML preprocessing and evaluation techniques.
