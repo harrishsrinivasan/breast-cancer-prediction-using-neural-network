@@ -15,12 +15,13 @@ The implementation is done in **Python** using **TensorFlow/Keras**, along with 
 ---
 
 ##  Repository Structure
+```
 breast-cancer-prediction/
 │──data.csv # Dataset
 │── breast_cancer_prediction.ipynb # Jupyter Notebook (EDA + Neural Network)
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation & Setup
